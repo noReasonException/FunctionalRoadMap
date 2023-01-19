@@ -18,7 +18,6 @@
 | Level 2                                                                                   |                                                |
 | Algebraic data types                                                                      |                                                |
 | Pattern matching                                                                          |                                                |                                            |   |
-| -----------------------------------------------------------------                         | ---                                            |
 | Parametric polymorphism                                                                   |                                                |
 | General recursion                                                                         |                                                |
 | Type classes, instances, and laws                                                         |                                                |
@@ -38,8 +37,6 @@
 | Reliably identify and isolate pure code from an impure code                               |                                                |
 | Avoid introducing unnecessary lambdas and named parameters                                |                                                |
 |                                                                                           |                                                |
-|                                                                                           |                                                |
-| --------------------------------------------------------------------                      | ---                                            |
 | Level 3                                                                                   |                                                |
 | Generalized algebraic data type                                                           |                                                |
 | Higher-kinded types                                                                       |                                                |
@@ -61,8 +58,6 @@
 | Write production medium-sized projects                                                    |                                                |
 | Use lenses and prisms to manipulate data                                                  |                                                |
 |                                                                                           |                                                |
-| ----------------------------------------------------------------------------------------- | ---                                            |
-|                                                                                           |                                                |
 | Level 4                                                                                   |                                                |
 | Codata                                                                                    |                                                |
 | (Co)recursion schemes                                                                     |                                                |
@@ -83,7 +78,6 @@
 | Use type classes to modularly model different effects                                     |                                                |
 | Recognize type patterns and abstract over them                                            |                                                |
 |                                                                                           |                                                |
-| -----------------------------------------------------------------------------             | ---                                            |
 | Generic programming                                                                       |                                                |
 | Type-level programming                                                                    |                                                |
 | Dependent-types, singleton types                                                          |                                                |
