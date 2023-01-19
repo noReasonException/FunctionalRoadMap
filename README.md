@@ -4,9 +4,9 @@
 | Level 1                                                                                   |                                                |
 | **Immutable data**                                                                        | lvl1.skills.A_ImmutableData.scala              |
 | **Second-order functions**                                                                | lvl1.skills.B_SecondOrderFunctions.scala       |
-| **Constructing and destructuring**                                                        | lvl1.skills.A_ImmutableData.scala              |
-| **Function composition**                                                                  | lvl1.skills.C_ConstructingAndDestructing.scala |
-| **First-class functions and lambdas <- Excluded(If you understand Second order)**         | lvl1.skills.D_FunctionComposition.scala        |
+| **Constructing and destructuring**                                                        | lvl1.skills.C_ConstructingAndDestructing.scala |
+| **Function composition**                                                                  | lvl1.skills.D_FunctionComposition.scala        |
+| **First-class functions and lambdas**                                                     | Excluded(If you understand Second order)       |
 |                                                                                           |                                                |
 | Test Level 1                                                                              |                                                |
 | Use second-order functions (map, filter, fold) on immutable data structures               |                                                |
