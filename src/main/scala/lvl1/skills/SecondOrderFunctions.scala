@@ -9,7 +9,7 @@ import scala.concurrent.Future
 
 /**Inspired by https://ericnormand.me/podcast/what-is-a-higher-order-function (Eric Normand)**/
 
-class B_SecondOrderFunctions {
+class SecondOrderFunctions {
 
   //ZeroOrderFunction
   //Gets values, returns values

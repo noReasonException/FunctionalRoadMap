@@ -1,6 +1,6 @@
 package lvl1.skills
 
-object D_FunctionComposition {
+object FunctionComposition {
   val plusOne:Int=>Int=_+1
   val times2:Int=>Int=_*2
 

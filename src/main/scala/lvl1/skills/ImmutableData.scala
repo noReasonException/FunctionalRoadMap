@@ -1,6 +1,6 @@
 package lvl1.skills
 
-object A_ImmutableData {
+object ImmutableData {
   //Why Immutability matters
   //let the following example
   def immutableAbsentExample():Unit={
