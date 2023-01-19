@@ -2,7 +2,7 @@
 |----------------------------------------------------------------------------------------------------------------|-----|
 | Skills                                                                                                         |     |
 | Level 1                                                                                                        |     |
-| <span style="color:Green">Immutable data</span>                                                                |     |
+| ```diff + Immutable data</span>```                                                                                |     |
 | <span style="color:Green">Second-order functions</span>                                                        |     |
 | <span style="color:Green">Constructing and destructuring</span>                                                |     |
 | <span style="color:Green">Function composition</span>                                                          |     |
