@@ -1,4 +1,4 @@
-package lvl1
+package lvl1.skills
 
 case class Point2D(x:Int,y:Int)
 object Point2D{

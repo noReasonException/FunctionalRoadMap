@@ -1,4 +1,4 @@
-package lvl1
+package lvl1.skills
 
 object A_ImmutableData {
   //Why Immutability matters
