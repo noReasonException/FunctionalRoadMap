@@ -16,10 +16,10 @@
 | Pass lambdas to second-order functions                                                  | Look the lambdas at lvl1.skills.FunctionComposition           |
 |                                                                                         |                                                               |
 | Level 2                                                                                 |                                                               |
-| Algebraic data types                                                                    |                                                               |
-| Pattern matching                                                                        |                                                               |                                            |   |
-| Parametric polymorphism                                                                 |                                                               |
-| General recursion                                                                       |                                                               |
+| Algebraic data types                                                                    | lvl2.skills.adtvsoop.AdtVsOop                                 |
+| Pattern matching                                                                        | Look at lvl1.skills.ConstructingAndDestructing.scala          |                                            |   |
+| Parametric polymorphism                                                                 | lvl2.skils.ParametricPolymorphism                             |
+| General recursion                                                                       | lvl2.skils.GeneralRecursion                                   |
 | Type classes, instances, and laws                                                       |                                                               |
 | Lower-order abstractions (equal, semigroup, monoid, and so on)                          |                                                               |
 | Referential transparency and totality                                                   |                                                               |

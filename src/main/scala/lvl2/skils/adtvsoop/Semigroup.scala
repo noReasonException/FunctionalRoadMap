@@ -1,4 +1,4 @@
-package lvl1.test.adtvsoop
+package lvl2.adtvsoop
 
 trait Semigroup[A] {
   val element:A

@@ -1,5 +1,4 @@
-package lvl1.test.adtvsoop
-import lvl1.test.adtvsoop.IntegerAdder
+package lvl2.adtvsoop
 //OOP vs ADT's
 //Source :  https://www.cs.utexas.edu/users/wcook/papers/OOPvsADT/CookOOPvsADT90.pdf
 

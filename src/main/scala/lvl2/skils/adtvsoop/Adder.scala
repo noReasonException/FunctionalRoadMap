@@ -1,4 +1,4 @@
-package lvl1.test.adtvsoop
+package lvl2.adtvsoop
 
 abstract class Adder[A] {
   protected var state:A
