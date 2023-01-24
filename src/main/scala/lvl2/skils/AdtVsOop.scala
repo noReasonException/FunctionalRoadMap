@@ -1,17 +1,6 @@
-package lvl2.adtvsoop
-//OOP vs ADT's
-//Source :  https://www.cs.utexas.edu/users/wcook/papers/OOPvsADT/CookOOPvsADT90.pdf
+package lvl2.skils
 
-//Object-oriented programming and abstract data types can also be viewed as complementary
-//implementation techniques: objects are centered around the constructors of a data abstraction, while
-//abstract data types are organized around the operations.
-
-//The basic difference is in the mechanism used to achieve the abstraction
-//barrier between a client and the data. In abstract data types, the primary mechanism is type abstraction,
-//while in procedural data abstraction it is procedural abstraction. This means, roughly, that in an ADT
-//the data is abstract by virtue of an opaque type: one that can be used by a client to declare variables but
-//whose representation cannot be inspected directly. In PDA, the data is abstract because it is accessed
-//through a procedural interface – although all of the types involved may be known to the user.
+import lvl2.adtvsoop.{Adder, IntegerAdder, IntegerImpl, Semigroup}
 
 /***
  * Feature    OOP(PDA)                                                                  ADT
