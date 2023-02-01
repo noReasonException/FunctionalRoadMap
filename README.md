@@ -18,10 +18,10 @@
 | Level 2                                                                                 |                                                               |
 | Algebraic data types                                                                    | lvl2.skills.adtvsoop.AdtVsOop                                 |
 | Pattern matching                                                                        | Look at lvl1.skills.ConstructingAndDestructing.scala          |                                            |   |
-| Parametric polymorphism                                                                 | lvl2.skils.ParametricPolymorphism                             |
-| General recursion                                                                       | lvl2.skils.GeneralRecursion                                   |
-| Type classes, instances, and laws                                                       | lvl2.skils.TypeClasses                                        |
-| Lower-order abstractions (equal, semigroup, monoid, and so on)                          |                                                               |
+| Parametric polymorphism                                                                 | lvl2.skills.ParametricPolymorphism                            |
+| General recursion                                                                       | lvl2.skills.GeneralRecursion                                  |
+| Type classes, instances, and laws                                                       | lvl2.skills.TypeClasses                                       |
+| Lower-order abstractions (equal, semigroup, monoid, and so on)                          | lvl2.skills.lowerOrderAbstractions                            |
 | Referential transparency and totality                                                   |                                                               |
 | Higher-order functions                                                                  |                                                               |
 | Partial application, currying, and point-free style                                     |                                                               |
