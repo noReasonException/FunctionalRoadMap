@@ -20,7 +20,7 @@
 | Pattern matching                                                                        | Look at lvl1.skills.ConstructingAndDestructing.scala          |                                            |   |
 | Parametric polymorphism                                                                 | lvl2.skils.ParametricPolymorphism                             |
 | General recursion                                                                       | lvl2.skils.GeneralRecursion                                   |
-| Type classes, instances, and laws                                                       |                                                               |
+| Type classes, instances, and laws                                                       | lvl2.skils.TypeClasses                                        |
 | Lower-order abstractions (equal, semigroup, monoid, and so on)                          |                                                               |
 | Referential transparency and totality                                                   |                                                               |
 | Higher-order functions                                                                  |                                                               |
