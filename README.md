@@ -42,7 +42,7 @@
 | Higher-kinded types                                                                     |                                                               |
 | Rank-N types                                                                            |                                                               |
 | Folds and unfolds                                                                       |                                                               |
-| Higher-order abstractions (category, functor, monad)                                    |                                                               |
+| Higher-order abstractions (category, functor,Applicative, monad)                        | lvl3.higherOrderAbstractions                                  |
 | Basic optics                                                                            |                                                               |
 | Implement efficient persistent data structures                                          |                                                               |
 | Existential types                                                                       |                                                               |
