@@ -23,6 +23,6 @@ object MonoidMain{
     val listA = NonEmptyList(1,(2 to 200).toList)
 
 
-    println(listA.foldLeft(Monoid.apply[Int].empty)(SemigroupInstances.semigroupIntAddInstance.combine)) //used the reduceLeft as this is cats-independent
+    //println(listA.foldLeft(Monoid.apply[Int].empty)(SemigroupInstances.semigroupIntAddInstance.combine)) //used the reduceLeft as this is cats-independent
   }
 }
